@@ -11,7 +11,7 @@ server.exe -frontend=true -type=gate
 
 启动game
 ```
-server.exe -frontend=false -type=gam
+server.exe -frontend=false -type=game
 ```
 
 测试工具
